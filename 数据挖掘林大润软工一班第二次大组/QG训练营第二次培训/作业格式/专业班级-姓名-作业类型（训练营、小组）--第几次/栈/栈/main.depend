@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523966490 source:c:\users\14267\desktop\qg训练营第二次培训\qg训练营第二次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\栈\代码和头文件\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"头文件/stack.h"
+
+1523888762 c:\users\14267\desktop\qg训练营第二次培训\qg训练营第二次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\栈\代码和头文件\头文件\stack.h
+
+1523967112 source:c:\users\14267\desktop\qg训练营第二次培训\qg训练营第二次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\栈\代码和头文件\头文件\main.c
+	<stdio.h>
+	"stack.h"
+	<stdlib.h>
+
