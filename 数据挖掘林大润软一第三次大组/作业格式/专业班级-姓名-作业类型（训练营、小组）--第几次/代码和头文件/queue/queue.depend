@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524402112 source:c:\users\14267\desktop\qg训练营第三次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\代码和头文件\queue\main.c
+	<stdio.h>
+	"../headfile/queue.h"
+	<stdlib.h>
+	<string.h>
+
+1524319252 c:\users\14267\desktop\qg训练营第三次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\代码和头文件\头文件\queue.h
+
+1524402452 source:c:\users\14267\desktop\qg训练营第三次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\代码和头文件\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../headfile/queue.h"
+
+1524399279 c:\users\14267\desktop\qg训练营第三次培训\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\代码和头文件\headfile\queue.h
+
